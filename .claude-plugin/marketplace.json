@@ -1,0 +1,31 @@
+{
+  "name": "proximaforma",
+  "owner": {
+    "name": "Proxima Forma",
+    "email": "support@proximaforma.com"
+  },
+  "plugins": [
+    {
+      "name": "proxima-forma",
+      "source": "./",
+      "description": "Create and edit persistent, editable designs with your AI agent on a shared Proxima Forma canvas.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Proxima Forma",
+        "url": "https://proximaforma.com",
+        "email": "support@proximaforma.com"
+      },
+      "homepage": "https://proximaforma.com",
+      "repository": "https://github.com/proximaforma/claude-plugin",
+      "license": "MIT",
+      "keywords": [
+        "design",
+        "canvas",
+        "ui",
+        "mockups",
+        "proxima-forma"
+      ]
+    }
+  ],
+  "description": "Create and edit designs on a shared Proxima Forma canvas with Claude."
+}

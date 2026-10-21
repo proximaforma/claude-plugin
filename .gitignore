@@ -1,0 +1,10 @@
+# Local files and credentials
+.DS_Store
+__MACOSX/
+.env
+.env.*
+*.pem
+*.key
+node_modules/
+.data/
+dist/

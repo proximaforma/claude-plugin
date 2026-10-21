@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "proxima-forma": {
+      "type": "http",
+      "url": "https://proximaforma.com/mcp"
+    }
+  }
+}

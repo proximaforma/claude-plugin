@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Use a dedicated Anthropic reviewer account with editor access to four sample projects; keep credentials private.
+
 ## 0.1.0 — 2026-10-22
 
 - Package the Proxima Forma hosted MCP connection and design workflow skill for Claude.

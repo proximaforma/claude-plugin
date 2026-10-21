@@ -38,7 +38,7 @@ Proxima Forma gives Claude access to an editable design canvas shared with peopl
 
 ## Reviewer access
 
-The owner confirmed that the existing OpenAI reviewer account already has access to sample projects. Reuse that populated account and its approved sample projects for Anthropic review; a new account is not required. Enter its existing credentials and login instructions only in Anthropic's private reviewer-access fields. Do not publish the account identity, password, tokens or private project links in this repository.
+A dedicated Anthropic reviewer account has been provisioned with editor access to four existing sample projects. Production password sign-in and access to all four projects were verified on 2026-10-22; no unrelated projects were visible. Supply its credentials and login instructions only in Anthropic's private reviewer-access fields. Do not publish the account identity, password, tokens or private project links in this repository.
 
 Verify that a reviewer can complete the Proxima Forma sign-in and Claude OAuth flow with that account before submission. Use a disposable sample canvas for write tests so the baseline examples remain usable.
 

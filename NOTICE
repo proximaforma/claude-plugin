@@ -1,0 +1,12 @@
+Proxima Forma for Claude
+Copyright (c) 2026 RatioSky LTD
+
+The plugin configuration, design workflow skill and accompanying documentation
+are licensed under the MIT License in LICENSE.
+
+The Proxima Forma PNG and SVG brand artwork in assets/ is excluded from that
+MIT grant. The artwork identifies this integration and its listings; logo and
+trademark rights are reserved. See assets/LICENSE and assets/README.md.
+
+The separately hosted Proxima Forma application and its source code are not
+included in this repository and are not covered by this package's license.

@@ -36,6 +36,12 @@ Proxima Forma gives Claude access to an editable design canvas shared with peopl
 5. Keep the connector and bundle in the same Claude organization and use the identical MCP URL so they can be paired.
 6. Run portal validation for the exact commit, address findings, submit and track review. This document is preparation, not evidence of an accepted or published listing.
 
+## Reviewer access
+
+The owner confirmed that the existing OpenAI reviewer account already has access to sample projects. Reuse that populated account and its approved sample projects for Anthropic review; a new account is not required. Enter its existing credentials and login instructions only in Anthropic's private reviewer-access fields. Do not publish the account identity, password, tokens or private project links in this repository.
+
+Verify that a reviewer can complete the Proxima Forma sign-in and Claude OAuth flow with that account before submission. Use a disposable sample canvas for write tests so the baseline examples remain usable.
+
 ## Known test status — 2026-10-22
 
 The owner confirmed that Claude can authenticate and read the connected canvas. Creation, editing, image imports, inspection, comments, exports, permission denials, renewal and revocation still need explicit end-to-end confirmation in Claude. Do not mark all tools tested based only on authentication and reading.

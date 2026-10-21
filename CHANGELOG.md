@@ -7,3 +7,4 @@
 - Record the owner's confirmation of working Claude authentication and canvas reading.
 - License the plugin configuration, workflow skill and documentation under MIT, with brand rights reserved.
 - Provide a repository marketplace for direct Claude Code installation.
+- Document reuse of the existing populated reviewer account for Anthropic, with credentials supplied privately.

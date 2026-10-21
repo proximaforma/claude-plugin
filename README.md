@@ -1,4 +1,4 @@
-![Proxima Forma](assets/proxima-forma-icon.png)
+![Proxima Forma](assets/proxima-forma-mark-192.png)
 
 # Proxima Forma for Claude
 

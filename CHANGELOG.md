@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Record the owner’s confirmation that end-to-end testing is complete for Anthropic submission.
+
 - Use a dedicated Anthropic reviewer account with editor access to four sample projects; keep credentials private.
 
 ## 0.1.0 — 2026-10-22

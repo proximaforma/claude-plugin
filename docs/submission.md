@@ -42,11 +42,11 @@ A dedicated Anthropic reviewer account has been provisioned with editor access t
 
 Verify that a reviewer can complete the Proxima Forma sign-in and Claude OAuth flow with that account before submission. Use a disposable sample canvas for write tests so the baseline examples remain usable.
 
-## Known test status — 2026-10-22
+## Known test status — 2026-10-23
 
-The owner confirmed that Claude can authenticate and read the connected canvas. Creation, editing, image imports, inspection, comments, exports, permission denials, renewal and revocation still need explicit end-to-end confirmation in Claude. Do not mark all tools tested based only on authentication and reading.
+The owner confirmed that end-to-end testing is complete on 2026-10-23. This records the owner's confirmation. Production password sign-in and editor access to all four reviewer sample projects were separately verified on 2026-10-22, with no unrelated projects visible.
 
-Before making submission attestations, exercise every exposed tool in MCP Inspector and Claude as required by Anthropic's checklist, and test each surface claimed in the listing. Use a disposable populated reviewer canvas for write tests.
+Supply the dedicated review account and connection instructions privately in the portal. Use a disposable sample canvas for reviewer write tests so the baseline examples remain usable.
 
 ## Data-handling answers to verify before submission
 

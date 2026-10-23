@@ -55,7 +55,8 @@ Supply the dedicated review account and connection instructions privately in the
 - The plugin's declared MCP destination is the Proxima Forma endpoint. URL imports and externally linked resources may contact the hosts supplied by users.
 - Storage, hosting, retention and deletion are covered by the public privacy policy. Do not claim the service never stores data or never uses subprocessors.
 - This connector creates editable designs; it does not expose AI image/video/audio generation or financial transactions.
-- Confirm the intended age audience and policy acknowledgements from the product owner's actual policies. Do not infer or pre-accept these for the owner.
+- The owner confirmed on 2026-10-23 that the intended audience includes under-18 users. The service terms exclude children under 13 and require parental or guardian authorization and supervision where users cannot independently enter the agreement. Answer the portal’s under-18 question Yes.
+- The authorized developer must complete the directory policy and legal acknowledgements.
 
 ## Local structure validation
 

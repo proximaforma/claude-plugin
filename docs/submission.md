@@ -17,7 +17,7 @@ This repository is the standalone plugin package. It contains no application bac
 | Terms | https://proximaforma.com/terms |
 | Support | https://proximaforma.com/support |
 | Contact | support@proximaforma.com |
-| Publisher / operator | Proxima Forma / RatioSky LTD |
+| Publisher / operator | Proxima Forma / Agentikus LTD |
 | Plugin repository | https://github.com/proximaforma/claude-plugin |
 | Plugin path | Repository root (leave the portal's optional path empty) |
 | Tracked branch | main |
@@ -50,7 +50,7 @@ Supply the dedicated review account and connection instructions privately in the
 
 ## Data-handling answers to verify before submission
 
-- This is a first-party Proxima Forma integration operated by RatioSky LTD.
+- This is a first-party Proxima Forma integration operated by Agentikus LTD.
 - Tool inputs and returned design data may contain personal information supplied by users.
 - The plugin's declared MCP destination is the Proxima Forma endpoint. URL imports and externally linked resources may contact the hosts supplied by users.
 - Storage, hosting, retention and deletion are covered by the public privacy policy. Do not claim the service never stores data or never uses subprocessors.

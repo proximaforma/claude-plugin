@@ -74,7 +74,7 @@ Workspace data is retained while the service is used unless removed or deletion 
 
 ## Support and publisher
 
-Proxima Forma is operated by **RatioSky LTD**. Contact **support@proximaforma.com** for connection, account, billing, privacy or security issues.
+Proxima Forma is operated by **Agentikus LTD**. Contact **support@proximaforma.com** for connection, account, billing, privacy or security issues.
 
 - [Setup and API documentation](https://proximaforma.com/docs/mcp)
 - [Support](https://proximaforma.com/support)

@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Correct the publisher and operator to Agentikus LTD, as confirmed by the owner.
+
 - Record the owner’s confirmation that end-to-end testing is complete for Anthropic submission.
 
 - Use a dedicated Anthropic reviewer account with editor access to four sample projects; keep credentials private.
